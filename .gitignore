@@ -1,0 +1,6 @@
+# Carpetas a ignorar
+venv/
+# Archivos a ignorar
+# Ignorar todos los archivos CSV
+*.csv
+*.gpkg
